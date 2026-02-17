@@ -1,13 +1,16 @@
 import streamlit as st
 st.header("📌Profil") 
 st.write("""Téchnicienne supérieure en géomatique, passionnée par l'analyse spatiale, la cartographie numérique et le développement d'applications SIG. Je posséde de solides compétences en SIG, en télédétection, en programmation Python et en réalisation de plans sur AutoCad.""") 
+
 st.header("💼Expériences") 
 st.write("-Collecte et traitement de données géographiques")
 st.write("-Production de cartes thématiques") 
 st.write("-Analyse spatiale sous QGIS et ArcGIS") 
 st.write("-Création de plans en 2D et 3D") 
+
 st.header("📚Formations") 
 st.write("-Brevet de Technicien Supérieur en Géomatique/ CEDT (Le G15)") 
+
 st.header("🛠️ Compétences") 
 st.write("📊-Suite bureautique: utilisation Word, Excel, PowerPoint.") 
 st.write("🗺️-SIG: traitement de données sur QGIS et ArcGIS.") 
